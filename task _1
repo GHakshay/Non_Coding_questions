@@ -1,1 +1,6 @@
 
+#install docker (give package url in /etc/yum.repos.d file and yum install docker)
+#check docker version (docker --version)
+#check docker status (systemctl status docker)
+#make directory (/myweb2)
+# write docker
